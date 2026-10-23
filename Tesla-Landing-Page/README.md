@@ -3,7 +3,7 @@
 A responsive, Tesla-inspired landing page built as part of the Full Stack AI Engineering course at Zaio Academy.
 
 ## Live Demo
-- **Netlify Live Link:** [https://themba-dev-cars.netlify.app](https://themba-dev-cars.netlify.app)
+- **Netlify Live Link:** [https://inquisitive-lollipop-91ecf2.netlify.app](https://inquisitive-lollipop-91ecf2.netlify.app)
 
 ## Features
 - **Hero Section:** Full-viewport banner featuring high-resolution vehicle imagery, prominent headline, call-to-action buttons, and smooth scroll indicator.
